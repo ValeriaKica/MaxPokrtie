@@ -1,7 +1,5 @@
 import kotlin.math.max
 
-//тут мы накосячили
-
 const val TYPE_1 = "Maestro"
 const val TYPE_2 = "MasterCard"
 const val MAXAMOUNT_TYPE_1 = 75000//максимальный лимит 75 000
